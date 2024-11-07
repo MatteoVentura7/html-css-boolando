@@ -76,10 +76,10 @@ header {
     list-style: none;
     display: flex;
     justify-content: left;
-    gap: 15px;
+    gap: 12px;
     font-size: 15px;
     color: white;
-    margin-top: 15px;
+    margin-top: 10px;
     
 }
 
@@ -167,15 +167,15 @@ header {
 
 
     /*------------
-FOOTER BOTTOM
+FOOTER 
 --------------*/
 
-.footer-bottom {
-    padding-top: 30px;
+.footer {
+    padding-top: 20px;
     background-color: #1A1A1A;
 }
 
-.footer-bottom > .container {
+.footer > .container {
     display: flex;
     padding: 16px 0;
     justify-content: space-between;
